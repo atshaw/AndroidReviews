@@ -1,0 +1,85 @@
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:7
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:7
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- supermarket (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:7
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/requirement.rb:72:in `parse': Illformed requirement ["~1.5.0"] (ArgumentError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/requirement.rb:96:in `initialize'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/requirement.rb:96:in `map!'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/requirement.rb:96:in `initialize'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/requirement.rb:35:in `new'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/requirement.rb:35:in `create'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems/dependency.rb:61:in `initialize'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:207:in `new'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:207:in `activate'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:1056:in `gem'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:6
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:777:in `report_activate_error': RubyGem version error: json(1.5.1 not = 1.5.0) (Gem::LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:211:in `activate'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:1056:in `gem'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:6
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:777:in `report_activate_error': RubyGem version error: json(1.5.1 not = 1.5.0) (Gem::LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:211:in `activate'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/rubygems.rb:1056:in `gem'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:6
+/Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler/shared_helpers.rb:21:in `default_gemfile': Could not locate Gemfile (Bundler::GemfileNotFound)
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:195:in `default_gemfile'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:165:in `root'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:124:in `load'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:115:in `setup'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:120:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler/shared_helpers.rb:21:in `default_gemfile': Could not locate Gemfile (Bundler::GemfileNotFound)
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:195:in `default_gemfile'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:165:in `root'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:124:in `load'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:115:in `setup'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:120:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+/Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler/shared_helpers.rb:21:in `default_gemfile': Could not locate Gemfile (Bundler::GemfileNotFound)
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:195:in `default_gemfile'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:165:in `root'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:124:in `load'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:115:in `setup'
+	from /Library/Ruby/Gems/1.8/gems/bundler-1.0.10/lib/bundler.rb:120:in `require'
+	from /Users/astrid/jenkins/cronjobs/AndroidStoreReviews/astrid_google_reviews.rb:8
+Using /usr/local/rvm/gems/jruby-1.6.7.2
+Running /usr/local/rvm/hooks/after_use
+Error opening script file: /Users/astrid/astrid_google_reviews.rb (No such file or directory)
+Using /usr/local/rvm/gems/jruby-1.6.7.2
+Running /usr/local/rvm/hooks/after_use
+Error opening script file: /Users/astrid/astrid_google_reviews.rb (No such file or directory)
